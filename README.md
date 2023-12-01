@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReaQwQ
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Python
-- 📫 How to reach me discord: reaqwq
+- 👋 こんにちは、@ReaQwQ です。
+- 👀 Javascriptに興味があります
+- 🌱現在Pythonを勉強中です
+- 📫 連絡方法 Discord | ID reaqwq
