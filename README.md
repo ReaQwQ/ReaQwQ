@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ReaQwQ
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Python
+- 📫 How to reach me discord: reaqwq
