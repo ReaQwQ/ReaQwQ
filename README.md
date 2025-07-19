@@ -1,4 +1,4 @@
 - 👋 こんにちは、@ReaQwQ です。
 - 👀 Javascriptに興味があります
 - 🌱現在Python/cppを勉強中です
-- 📫 連絡方法 Discord | ID ninty1212.
+- 📫 連絡方法 Discord | ID r1_xly.
