@@ -18,7 +18,7 @@
 ## 📂 Projects
 Records of my trial and error, and successful builds.
 
-- [**ReaLauncher**](https://github.com/ReaQwQ/ReaLauncher) - A high-speed launcher project built with Vite.
+- [**ReaLauncher**](https://github.com/ReaQwQ/ReaLauncher) - A Minecraft launcher project built with Vite.
 - [**Other Projects**](https://github.com/ReaQwQ?tab=repositories) - Daily experimental scripts and various repositories.
 
 ---
