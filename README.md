@@ -30,10 +30,6 @@ Records of my trial and error, and successful builds.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaQwQ&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReaQwQ&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
 ---
 
 ## 📫 Contact
