@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ReaQwQ | 13 y/o Full-stack Developer
+# 👋 Hi, I'm ReaQwQ | 13 y/o
 
 ---
 
