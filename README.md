@@ -1,28 +1,5 @@
 # 👋 Hi, I'm ReaQwQ | 13 y/o
 
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-- **Frontend**: React, Vite, Next.js (Legacy), TailwindCSS, Framer Motion
-- **Backend**: Node.js, Express, TypeScript, Discord.js
-- **Database**: Prisma, PostgreSQL, Redis
-
-### Tools & Infrastructure
-- **DevOps**: Docker Desktop, Git, VS Code, npm/pnpm
-- **Design**: Figma (UI/UX Concept), Glassmorphism/Bento UI Styles
-
----
-
-## 📂 Projects
-Records of my trial and error, and successful builds.
-
-- [**ReaLauncher**](https://github.com/ReaQwQ/ReaLauncher) - A Minecraft launcher project built with Vite.
-- [**Other Projects**](https://github.com/ReaQwQ?tab=repositories) - Daily experimental scripts and various repositories.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -33,7 +10,7 @@ Records of my trial and error, and successful builds.
 ---
 
 ## 📫 Contact
-- **Discord**: `r1_xly`
+- **Discord**: `oc3e`
 - **Twitter**: [@ReaQwQ](https://twitter.com/ReaQwQ)
 
 ---
