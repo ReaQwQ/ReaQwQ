@@ -14,8 +14,3 @@
 - **Twitter**: [@ReaQwQ](https://twitter.com/ReaQwQ)
 
 ---
-
-## 📜Repo Logs
-- **Server**: [Discord](https://discord.gg/8RdxwanNmD)
-
----
